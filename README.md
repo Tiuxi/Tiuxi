@@ -1,5 +1,5 @@
 ## Hi there 👋
-$${\color{red}Red}$$ Hello
+
 <!--
 **Tiuxi/Tiuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -10,7 +10,7 @@ $${\color{red}Red}$$ Hello
 ```
   Tiuxi@github
 ──────────────────────────────────────────────
-Name   : Thibaut
+Name   : $${\color{red}Red}$$ Thibaut
 Model  : Human
 Uptime : ~20 years
 OS     : Pop!_OS 22.04
