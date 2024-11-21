@@ -2,15 +2,28 @@
 
 <!--
 **Tiuxi/Tiuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+```
+>>> fastfetch Tiuxi
+```
+```
+  Tiuxi@github
+──────────────────────────────────────────────
+Name   : Thibaut
+Model  : Human
+Uptime : ~20 years
+OS     : Pop!_OS 22.04
+Memory : ~86x10⁹ neurons 
+────────
+Locale : fr_FR, en_US
+Code   : C, Python, Typescript, Befunge
+Others : LaTeX, Markdown, HTML
+IDE    : VS_codium, switching to COSMIC-edit
+────────
+Project  : Rootsh - C treelike shell
+Learning : Rust, C++
+Hobbies  : Celeste fwg, Minecraft, Bouldering, Crochet
+────────
+Discord : @tiuxi
+```
