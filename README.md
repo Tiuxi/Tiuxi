@@ -7,23 +7,4 @@
 ```bash
 >>> fastfetch Tiuxi
 ```
-```
-  Tiuxi@github
-──────────────────────────────────────────────
-Name   : Thibaut
-Model  : Human
-Uptime : ~20 years
-OS     : Pop!_OS 22.04
-Memory : ~86x10⁹ neurons 
-────────
-Locale : fr_FR, en_US
-Code   : C, Python, Typescript, Befunge
-Others : LaTeX, Markdown, HTML
-IDE    : VS_codium, switching to COSMIC-edit
-────────
-Project  : Rootsh - C treelike shell
-Learning : Rust, C++
-Hobbies  : Celeste fwg, Minecraft, Bouldering, Crochet
-────────
-Discord : @tiuxi
-```
+![fastfetchme.png](screenshot-2024-11-21-07-19-51.png)
