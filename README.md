@@ -10,7 +10,7 @@
 ```
   Tiuxi@github
 ──────────────────────────────────────────────
-Name   : $${\color{red}Red}$$ Thibaut
+Name   : Thibaut
 Model  : Human
 Uptime : ~20 years
 OS     : Pop!_OS 22.04
